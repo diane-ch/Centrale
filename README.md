@@ -11,4 +11,5 @@ The **DATASIM** program focuses on the design of digital and algorithmic solutio
 - Applied computer science
 - Scientific computing
 
-Some of the notebooks may be unfinished. The main goal is to share what I studied and the kinds of problems I worked on.
+Some of the notebooks may be unfinished and partially in French. The main goal is to share what I studied and the kinds of problems I worked on.
+
